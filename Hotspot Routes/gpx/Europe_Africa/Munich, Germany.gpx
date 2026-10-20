@@ -1,41 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="iSpoofer For Pokémon Go"> <trk> <name>0</name> <trkseg>
-<trkpt lat="48.122881" lon="11.517506"></trkpt>
-<trkpt lat="48.122990" lon="11.516698"></trkpt>
-<trkpt lat="48.123329" lon="11.516637"></trkpt>
-<trkpt lat="48.123718" lon="11.514681"></trkpt>
-<trkpt lat="48.123918" lon="11.511216"></trkpt>
-<trkpt lat="48.124249" lon="11.509323"></trkpt>
-<trkpt lat="48.123073" lon="11.508137"></trkpt>
-<trkpt lat="48.122853" lon="11.508830"></trkpt>
-<trkpt lat="48.122746" lon="11.509312"></trkpt>
-<trkpt lat="48.122457" lon="11.510871"></trkpt>
-<trkpt lat="48.122943" lon="11.513135"></trkpt>
-<trkpt lat="48.122808" lon="11.514323"></trkpt>
-<trkpt lat="48.122839" lon="11.514766"></trkpt>
-<trkpt lat="48.121928" lon="11.517901"></trkpt>
-<trkpt lat="48.121694" lon="11.516440"></trkpt>
-<trkpt lat="48.121031" lon="11.516694"></trkpt>
-<trkpt lat="48.120856" lon="11.514994"></trkpt>
-<trkpt lat="48.121320" lon="11.514770"></trkpt>
-<trkpt lat="48.121629" lon="11.513873"></trkpt>
-<trkpt lat="48.122552" lon="11.512861"></trkpt>
-<trkpt lat="48.122116" lon="11.512324"></trkpt>
-<trkpt lat="48.121534" lon="11.511656"></trkpt>
-<trkpt lat="48.121770" lon="11.510531"></trkpt>
-<trkpt lat="48.122295" lon="11.510014"></trkpt>
-<trkpt lat="48.122240" lon="11.509091"></trkpt>
-<trkpt lat="48.121735" lon="11.508265"></trkpt>
-<trkpt lat="48.121679" lon="11.507396"></trkpt>
-<trkpt lat="48.120987" lon="11.507137"></trkpt>
-<trkpt lat="48.120805" lon="11.506770"></trkpt>
-<trkpt lat="48.120373" lon="11.507436"></trkpt>
-<trkpt lat="48.120128" lon="11.507730"></trkpt>
-<trkpt lat="48.120104" lon="11.508185"></trkpt>
-<trkpt lat="48.120642" lon="11.508353"></trkpt>
-<trkpt lat="48.121171" lon="11.508075"></trkpt>
-<trkpt lat="48.120838" lon="11.508818"></trkpt>
-<trkpt lat="48.120576" lon="11.509699"></trkpt>
-<trkpt lat="48.120652" lon="11.510097"></trkpt>
-<trkpt lat="48.120657" lon="11.511632"></trkpt>
-<trkpt lat="48.121122" lon="11.512736"></trkpt></trkseg></trk></gpx> 
+<gpx>
+  <trk>
+    <trkseg from="1" mode="3">
+      <trkpt lon="11.517506" lat="48.122881" />
+      <trkpt lon="11.516698" lat="48.122990" />
+      <trkpt lon="11.516637" lat="48.123329" />
+      <trkpt lon="11.514681" lat="48.123718" />
+      <trkpt lon="11.511216" lat="48.123918" />
+      <trkpt lon="11.509323" lat="48.124249" />
+      <trkpt lon="11.508137" lat="48.123073" />
+      <trkpt lon="11.508830" lat="48.122853" />
+      <trkpt lon="11.509312" lat="48.122746" />
+      <trkpt lon="11.510871" lat="48.122457" />
+      <trkpt lon="11.513135" lat="48.122943" />
+      <trkpt lon="11.514323" lat="48.122808" />
+      <trkpt lon="11.514766" lat="48.122839" />
+      <trkpt lon="11.517901" lat="48.121928" />
+      <trkpt lon="11.516440" lat="48.121694" />
+      <trkpt lon="11.516694" lat="48.121031" />
+      <trkpt lon="11.514994" lat="48.120856" />
+      <trkpt lon="11.514770" lat="48.121320" />
+      <trkpt lon="11.513873" lat="48.121629" />
+      <trkpt lon="11.512861" lat="48.122552" />
+      <trkpt lon="11.512324" lat="48.122116" />
+      <trkpt lon="11.511656" lat="48.121534" />
+      <trkpt lon="11.510531" lat="48.121770" />
+      <trkpt lon="11.510014" lat="48.122295" />
+      <trkpt lon="11.509091" lat="48.122240" />
+      <trkpt lon="11.508265" lat="48.121735" />
+      <trkpt lon="11.507396" lat="48.121679" />
+      <trkpt lon="11.507137" lat="48.120987" />
+      <trkpt lon="11.506770" lat="48.120805" />
+      <trkpt lon="11.507436" lat="48.120373" />
+      <trkpt lon="11.507730" lat="48.120128" />
+      <trkpt lon="11.508185" lat="48.120104" />
+      <trkpt lon="11.508353" lat="48.120642" />
+      <trkpt lon="11.508075" lat="48.121171" />
+      <trkpt lon="11.508818" lat="48.120838" />
+      <trkpt lon="11.509699" lat="48.120576" />
+      <trkpt lon="11.510097" lat="48.120652" />
+      <trkpt lon="11.511632" lat="48.120657" />
+      <trkpt lon="11.512736" lat="48.121122" />
+    </trkseg>
+  </trk>
+</gpx>
